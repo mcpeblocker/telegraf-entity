@@ -1,0 +1,28 @@
+{
+  "name": "telegraf-entity",
+  "version": "1.0.0",
+  "description": "A library that converts telegram message entities into html and markdown formats. (Intented to use alongside with TelegrafJS)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcpeblocker/telegraf-entity.git"
+  },
+  "keywords": [
+    "entity",
+    "bot",
+    "telegram",
+    "telegraf",
+    "html",
+    "markdown",
+    "formatting"
+  ],
+  "author": "Alisher Ortiqov <mcpeblocker@gmail.com> (mcpeblocker.uz)",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/mcpeblocker/telegraf-entity/issues",
+    "email": "mcpeblocker@gmail.com"
+  },
+  "homepage": "https://github.com/mcpeblocker/telegraf-entity#readme",
+  "dependencies": {}
+}
