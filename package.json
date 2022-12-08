@@ -1,6 +1,6 @@
 {
   "name": "telegraf-entity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A library that converts telegram message entities into html and markdown formats. (Intented to use alongside with TelegrafJS)",
   "main": "index.js",
   "repository": {
